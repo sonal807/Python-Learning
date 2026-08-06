@@ -1,0 +1,4 @@
+Hello everyone...How are you ?
+We are learning python file I/O
+This is the third line.
+This is the fourth line.
