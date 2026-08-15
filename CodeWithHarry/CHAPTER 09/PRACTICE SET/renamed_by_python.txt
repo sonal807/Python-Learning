@@ -1,0 +1,14 @@
+Hello everyone, my name is Sonal Rai. 
+I am a B.Tech Computer Science and Engineering student** currently in my third year. 
+I am interested in the field of Artificial Intelligence and Machine Learning, 
+and I am currently working on improving my programming and problem-solving skills.
+
+I have been learning Python and practicing programming concepts through different coding problems and projects. 
+I am also planning to strengthen my Data Structures and Algorithms skills using Java because,
+I believe strong fundamentals are important for building a successful career in technology.
+
+Apart from academics, I am always interested in learning new technologies, 
+working on projects, and improving myself. 
+My goal is to continuously develop my technical skills and eventually build a strong career in AI/ML and software development.
+
+Thank you.
